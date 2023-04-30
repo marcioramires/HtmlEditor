@@ -1,0 +1,15 @@
+C:\Users\mtambeiro\OneDrive - Hitec Power Protection\Desktop\Dev\personal-projects\git\HtmlEditor\bin\Debug\net7.0\HtmlEditor.exe
+C:\Users\mtambeiro\OneDrive - Hitec Power Protection\Desktop\Dev\personal-projects\git\HtmlEditor\bin\Debug\net7.0\HtmlEditor.deps.json
+C:\Users\mtambeiro\OneDrive - Hitec Power Protection\Desktop\Dev\personal-projects\git\HtmlEditor\bin\Debug\net7.0\HtmlEditor.runtimeconfig.json
+C:\Users\mtambeiro\OneDrive - Hitec Power Protection\Desktop\Dev\personal-projects\git\HtmlEditor\bin\Debug\net7.0\HtmlEditor.dll
+C:\Users\mtambeiro\OneDrive - Hitec Power Protection\Desktop\Dev\personal-projects\git\HtmlEditor\bin\Debug\net7.0\HtmlEditor.pdb
+C:\Users\mtambeiro\OneDrive - Hitec Power Protection\Desktop\Dev\personal-projects\git\HtmlEditor\obj\Debug\net7.0\HtmlEditor.csproj.AssemblyReference.cache
+C:\Users\mtambeiro\OneDrive - Hitec Power Protection\Desktop\Dev\personal-projects\git\HtmlEditor\obj\Debug\net7.0\HtmlEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtambeiro\OneDrive - Hitec Power Protection\Desktop\Dev\personal-projects\git\HtmlEditor\obj\Debug\net7.0\HtmlEditor.AssemblyInfoInputs.cache
+C:\Users\mtambeiro\OneDrive - Hitec Power Protection\Desktop\Dev\personal-projects\git\HtmlEditor\obj\Debug\net7.0\HtmlEditor.AssemblyInfo.cs
+C:\Users\mtambeiro\OneDrive - Hitec Power Protection\Desktop\Dev\personal-projects\git\HtmlEditor\obj\Debug\net7.0\HtmlEditor.csproj.CoreCompileInputs.cache
+C:\Users\mtambeiro\OneDrive - Hitec Power Protection\Desktop\Dev\personal-projects\git\HtmlEditor\obj\Debug\net7.0\HtmlEditor.dll
+C:\Users\mtambeiro\OneDrive - Hitec Power Protection\Desktop\Dev\personal-projects\git\HtmlEditor\obj\Debug\net7.0\refint\HtmlEditor.dll
+C:\Users\mtambeiro\OneDrive - Hitec Power Protection\Desktop\Dev\personal-projects\git\HtmlEditor\obj\Debug\net7.0\HtmlEditor.pdb
+C:\Users\mtambeiro\OneDrive - Hitec Power Protection\Desktop\Dev\personal-projects\git\HtmlEditor\obj\Debug\net7.0\HtmlEditor.genruntimeconfig.cache
+C:\Users\mtambeiro\OneDrive - Hitec Power Protection\Desktop\Dev\personal-projects\git\HtmlEditor\obj\Debug\net7.0\ref\HtmlEditor.dll
